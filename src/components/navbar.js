@@ -32,11 +32,11 @@ export default function ButtonAppBar() {
             Feature
           </Link>
           {/* <button className='btn'>Log In</button> */}
-          <Link to="/sign" className="nav-item">
+          <Link to="/sign" className="nav-item si">
             Sign in{" "}
           </Link>
           &nbsp; &nbsp; &nbsp;
-          <Link to="/login" className="nav-item">
+          <Link to="/login" className="nav-item si">
             Log in{" "}
           </Link>
         </Toolbar>
