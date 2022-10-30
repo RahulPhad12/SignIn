@@ -25,7 +25,7 @@
   color: var(--bittersweet);
 }
 
-.btn {
+.si {
   background: var(--bittersweet);
   color: #fff;
   padding: 15px 40px;
@@ -36,6 +36,7 @@
   cursor: pointer;
 }
 
-.btn:hover {
+.si:hover {
   background: var(--french-rose);
+  color: #fff;
 }
